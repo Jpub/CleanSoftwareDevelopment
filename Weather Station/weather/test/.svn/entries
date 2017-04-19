@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Weather%20Station/weather/test"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   committed-rev="2"
+   name="Timer.java"
+   text-time="2001-12-21T23:39:42.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="397b6fe72eb3c343966ff8cf8734da29"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:34.526998Z"/>
+<entry
+   committed-rev="2"
+   name="TemperatureImp.java"
+   text-time="2001-12-21T23:39:42.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="462f4a564a1945d2399be23c43f22b5d"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:34.547027Z"/>
+<entry
+   committed-rev="2"
+   name="Toolkit.java"
+   text-time="2001-12-21T23:39:42.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="23d1bbd5346f62d4d8cc24dd740cce3a"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:34.567056Z"/>
+<entry
+   committed-rev="2"
+   name="BarometricPressureImp.java"
+   text-time="2001-12-21T23:39:42.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="e75ada1ccc99cd1a4ae23e4e113c62fa"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:34.577070Z"/>
+<entry
+   committed-rev="2"
+   name="PersistentImp.java"
+   text-time="2001-12-21T23:39:42.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="3fb96d61c9b3e50f996f174dd2bef8e9"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:34.597099Z"/>
+<entry
+   committed-rev="2"
+   name="AlarmClockImp.java"
+   text-time="2001-12-21T23:39:42.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="80114c601091335ad4ff6e9266a110d3"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:34.607113Z"/>
+</wc-entries>

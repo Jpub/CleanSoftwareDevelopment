@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Weather%20Station/weather/api"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   committed-rev="2"
+   name="PersistentException.java"
+   text-time="2001-12-21T23:39:52.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="c0d44471fffc8da19f80950c5200caf2"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.609993Z"/>
+<entry
+   committed-rev="2"
+   name="BarometricPressureSensorImp.java"
+   text-time="2001-12-21T23:39:52.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="737651395fa63742fd8dde992acbe697"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.630022Z"/>
+<entry
+   committed-rev="2"
+   name="ClockListener.java"
+   text-time="2001-12-21T23:39:52.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="7ee43290d64e48f00ce9eb39027ff681"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.640036Z"/>
+<entry
+   committed-rev="2"
+   name="RetrieveException.java"
+   text-time="2001-12-21T23:39:52.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="3db42c09f13e4ae64758262cc32f290b"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.660065Z"/>
+<entry
+   committed-rev="2"
+   name="PersistentImp.java"
+   text-time="2001-12-21T23:39:52.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="625ac461ea7139ecb042aede137a3989"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.680094Z"/>
+<entry
+   committed-rev="2"
+   name="StationToolkit.java"
+   text-time="2001-12-21T23:39:50.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="8b660bd88af6b69c9780040daee0fbd7"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.700123Z"/>
+<entry
+   committed-rev="2"
+   name="Scope.java"
+   text-time="2001-12-21T23:39:50.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="bf5bbf0a17cfd2e377e961bb78f6bc6e"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.720152Z"/>
+<entry
+   committed-rev="2"
+   name="StoreException.java"
+   text-time="2001-12-21T23:39:50.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="c7aca830170c2897312552e95ff7500c"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.740180Z"/>
+<entry
+   committed-rev="2"
+   name="TemperatureSensorImp.java"
+   text-time="2001-12-21T23:39:50.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="f3bb8dd21f39365528f38cfa266f5f2c"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.760209Z"/>
+<entry
+   committed-rev="2"
+   name="AlarmClockImp.java"
+   text-time="2001-12-21T23:39:52.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="26cac04a1d3079f476e9b9ee71de9ced"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:36.770224Z"/>
+</wc-entries>

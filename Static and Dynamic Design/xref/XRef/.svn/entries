@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Static%20and%20Dynamic%20Design/xref/XRef"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   committed-rev="2"
+   name="identifierReferenceList.h"
+   text-time="2001-12-21T23:40:16.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="7c1c5f668dea990d1dbd686ef41d55f1"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:50.580081Z"/>
+<entry
+   committed-rev="2"
+   name="xref.cpp"
+   text-time="2001-12-21T23:40:16.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="ecb4065c4631b0b7eb41cd2cdcbd4eb6"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:50.590096Z"/>
+<entry
+   committed-rev="2"
+   name="xref.h"
+   text-time="2001-12-21T23:40:16.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="d39445b150c4108912646b2d8ed36d68"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:50.600110Z"/>
+</wc-entries>

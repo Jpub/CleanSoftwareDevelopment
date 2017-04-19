@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Payroll/PayrollCode/cppunit1.5/CppUnit/ms/TestRunner"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   committed-rev="2"
+   name="ProgressBar.h"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="dbea2fbabedaafff069b16944f5ef7a3"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.318201Z"/>
+<entry
+   committed-rev="2"
+   name="StdAfx.h"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="a83aa3ba4edbbafd2d7d37ccf257802e"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.298172Z"/>
+<entry
+   committed-rev="2"
+   name="TestRunnerDlg.cpp"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="86f6f9d77501fe931205b0288be15cde"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.348244Z"/>
+<entry
+   committed-rev="2"
+   name="TestRunnerDlg.h"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="d11d860b2fbd8312c052631039eca501"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.388302Z"/>
+<entry
+   committed-rev="2"
+   name="TestRunner.cpp"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="0bbb12f26e2ec1cf741d7fa619d66745"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.448388Z"/>
+<entry
+   committed-rev="2"
+   name="ActiveTest.cpp"
+   text-time="2001-12-21T23:42:32.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="85a5baf43237c5165de7c6816032d03f"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.458403Z"/>
+<entry
+   committed-rev="2"
+   name="TestRunner.h"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="8bfe73c8afa417a4380836b50d1e181b"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.268129Z"/>
+<entry
+   committed-rev="2"
+   name="ActiveTest.h"
+   text-time="2001-12-21T23:42:32.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="1e4c563bbbb850c1dc7b299922c59ce1"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.338230Z"/>
+<entry
+   committed-rev="2"
+   name="SynchronizedTestResult.h"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="d37e14ff1a5c2ac66b336c91d343ae81"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.368273Z"/>
+<entry
+   committed-rev="2"
+   name="GUITestResult.cpp"
+   text-time="2001-12-21T23:42:32.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="70498ee768ccd175b55801e6e90fd666"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.358259Z"/>
+<entry
+   committed-rev="2"
+   name="TestResultDecorator.h"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="b3430b66727a3d0bb7dce2af33963796"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.398316Z"/>
+<entry
+   committed-rev="2"
+   name="GUITestResult.h"
+   text-time="2001-12-21T23:42:32.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="8947e36e38ae1e2009edc55a27502595"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.408331Z"/>
+<entry
+   committed-rev="2"
+   name="StdAfx.cpp"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="60e8915d3e760ebea43c54f888f1d38e"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.438374Z"/>
+<entry
+   committed-rev="2"
+   name="ProgressBar.cpp"
+   text-time="2001-12-21T23:42:32.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="caab8be6327be69e1ca7f8b7e641996a"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.428360Z"/>
+<entry
+   committed-rev="2"
+   name="Resource.h"
+   text-time="2001-12-21T23:42:30.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="caf233920953c3d5cfb8636b8aa75a90"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:42.468417Z"/>
+</wc-entries>

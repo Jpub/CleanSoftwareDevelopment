@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Patterns/Composite/CompositeShape/source"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   committed-rev="2"
+   name="Shape.java"
+   text-time="2001-12-21T23:43:16.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="40e7617f671d21be80cd62b2c0e3c8c8"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:24.823044Z"/>
+<entry
+   committed-rev="2"
+   name="TestCompositeShape.java"
+   text-time="2001-12-21T23:43:16.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="ca9cead9d4b1eee180d2645cff7af73b"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:24.843073Z"/>
+<entry
+   committed-rev="2"
+   name="CompositeShape.java"
+   text-time="2001-12-21T23:43:18.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="ce0323658dff7b63c3abdcab7cf96ffe"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:24.853088Z"/>
+</wc-entries>

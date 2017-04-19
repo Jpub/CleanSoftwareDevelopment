@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Patterns/State/StateTableTurnstyle/source"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   committed-rev="2"
+   name="TestStateTableTurnstyle.java"
+   text-time="2001-12-21T23:42:50.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="9edb5e86d12484fb91c282decd3537cb"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:21.277947Z"/>
+<entry
+   committed-rev="2"
+   name="Turnstyle.java"
+   text-time="2001-12-21T23:42:50.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="c6e35c195d2b53f40c187f60972b8233"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:21.297976Z"/>
+<entry
+   committed-rev="2"
+   name="TurnstyleController.java"
+   text-time="2001-12-21T23:42:50.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="944c697ba8a86db754271c57988064dd"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:21.328019Z"/>
+</wc-entries>

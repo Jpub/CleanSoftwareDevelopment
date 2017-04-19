@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Patterns/Proxy%20and%20Composite/Shopping%20Cart/Source"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   committed-rev="2"
+   name="TestShoppingCart.java"
+   text-time="2001-12-21T23:43:04.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="e4b12d742c9ebbea9d7299253d7eddf6"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.665694Z"/>
+<entry
+   committed-rev="2"
+   name="OrderData.java"
+   text-time="2001-12-21T23:43:06.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="7831f017136dc59f55d309c331ce3df4"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.675708Z"/>
+<entry
+   committed-rev="2"
+   name="ProductData.java"
+   text-time="2001-12-21T23:43:04.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="fb24912b93e78650b8592e3a8478266b"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.685723Z"/>
+<entry
+   committed-rev="2"
+   name="Order.java"
+   text-time="2001-12-21T23:43:06.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="8ff43ab42fd81eed0b34e66c3de16c38"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.705752Z"/>
+<entry
+   committed-rev="2"
+   name="OrderProxy.java"
+   text-time="2001-12-21T23:43:04.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="f476adbda23fe6ea057d110ea7785f30"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.715766Z"/>
+<entry
+   committed-rev="2"
+   name="Product.java"
+   text-time="2001-12-21T23:43:04.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="42887900003de43f99a2961167dbf5f5"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.725780Z"/>
+<entry
+   committed-rev="2"
+   name="ProxyTest.java"
+   text-time="2001-12-21T23:43:04.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="0f81ba3dbd947cba83e839a246055daf"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.765838Z"/>
+<entry
+   committed-rev="2"
+   name="OrderImp.java"
+   text-time="2001-12-21T23:43:06.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="6eb8740d1fa0f432de1c38070e08bb6b"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.745809Z"/>
+<entry
+   committed-rev="2"
+   name="SqlShoppingCartTest.java"
+   text-time="2001-12-21T23:43:04.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="017976db72aaacb01e7234131dc4ceb0"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.735795Z"/>
+<entry
+   committed-rev="2"
+   name="ProductProxy.java"
+   text-time="2001-12-21T23:43:04.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="300db39aa1e017f6d0608da7957f2938"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.795881Z"/>
+<entry
+   committed-rev="2"
+   name="DB.java"
+   text-time="2001-12-21T23:43:06.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="f521984aab2d1d2d8eb602ce1cfa224c"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.825924Z"/>
+<entry
+   committed-rev="2"
+   name="DBTest.java"
+   text-time="2001-12-21T23:43:06.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="befe37d2dd967f1214243eaa4f8291c6"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.805896Z"/>
+<entry
+   committed-rev="2"
+   name="ProductImp.java"
+   text-time="2001-12-21T23:43:04.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="2ec348f28cea30ae88b2671383b5be83"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.835939Z"/>
+<entry
+   committed-rev="2"
+   name="ItemData.java"
+   text-time="2001-12-21T23:43:06.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="77a3c344504fea791e6f32a6f9243575"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.845953Z"/>
+<entry
+   committed-rev="2"
+   name="AllTests.java"
+   text-time="2001-12-21T23:43:06.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="88b1d866a124e533692e55813491379e"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.855968Z"/>
+<entry
+   committed-rev="2"
+   name="Item.java"
+   text-time="2001-12-21T23:43:06.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="034a084c0cac8df2cc3bab7396c1bcb3"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:26.865982Z"/>
+</wc-entries>
