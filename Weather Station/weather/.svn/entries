@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Weather%20Station/weather"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   name="wmsdata"
+   kind="dir"/>
+<entry
+   name="component"
+   kind="dir"/>
+<entry
+   name="system"
+   kind="dir"/>
+<entry
+   name="persistence"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="Main.java"
+   text-time="2001-12-21T23:39:48.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="6d1bc4c9c24206f2675591f0c36baa60"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:35.818856Z"/>
+<entry
+   name="wmsdataimp"
+   kind="dir"/>
+<entry
+   name="api"
+   kind="dir"/>
+<entry
+   name="ui"
+   kind="dir"/>
+</wc-entries>

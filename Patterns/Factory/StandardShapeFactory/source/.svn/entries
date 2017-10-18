@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Patterns/Factory/StandardShapeFactory/source"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   committed-rev="2"
+   name="Shape.java"
+   text-time="2001-12-21T23:43:12.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="6d57e030c3e1ca871b48b8e97b6dad20"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:28.478300Z"/>
+<entry
+   committed-rev="2"
+   name="Square.java"
+   text-time="2001-12-21T23:43:12.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="9bb43dc7b669a5bbc6760f8e28afa881"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:28.498329Z"/>
+<entry
+   committed-rev="2"
+   name="Circle.java"
+   text-time="2001-12-21T23:43:12.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="2314b71e50bc501b97cc8264d34c0425"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:28.508344Z"/>
+<entry
+   committed-rev="2"
+   name="TestShapeFactory.java"
+   text-time="2001-12-21T23:43:12.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="8c32702584db047710ae43752c6cb67e"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:28.528372Z"/>
+<entry
+   committed-rev="2"
+   name="ShapeFactory.java"
+   text-time="2001-12-21T23:43:12.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="2549ee99e6b2a640ae5f2190d7602b06"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:28.538387Z"/>
+<entry
+   committed-rev="2"
+   name="ShapeFactoryImplementation.java"
+   text-time="2001-12-21T23:43:12.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="8e4abd39409d015cbd63f79018ecd1ce"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:28.548401Z"/>
+</wc-entries>

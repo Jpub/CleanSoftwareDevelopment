@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Patterns/Template%20Method"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   name="Bubble Sort Template Method"
+   kind="dir"/>
+<entry
+   name="SoapInvoker"
+   kind="dir"/>
+<entry
+   name="ftoc raw"
+   kind="dir"/>
+<entry
+   name="Bubble Sort Strategy"
+   kind="dir"/>
+<entry
+   name="ftoc template method"
+   kind="dir"/>
+<entry
+   name="Bubble Sort Raw"
+   kind="dir"/>
+<entry
+   name="ftoc Strategy"
+   kind="dir"/>
+</wc-entries>

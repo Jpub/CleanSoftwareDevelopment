@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-07-10T00:41:48.898159Z"
+   url="svn+ssh://robertcmartin@svn.objectmentor.com/home/svn/PPP.NET/trunk/sourceArchiveDirectory/Payroll/Payroll/Source1"
+   last-author="micah"
+   kind="dir"
+   uuid="da75832a-80fb-0310-8671-afebe6465b90"
+   revision="70"/>
+<entry
+   committed-rev="2"
+   name="PayrollTest.java"
+   text-time="2001-12-21T23:42:40.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="f513d5e3586970e3266314d9fe7ad1e2"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:38.412585Z"/>
+<entry
+   committed-rev="2"
+   name="SalariedEmployee.java"
+   text-time="2001-12-21T23:42:40.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="805e5f237227cacc517ab75f9696284e"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:38.422600Z"/>
+<entry
+   committed-rev="2"
+   name="Paycheck.java"
+   text-time="2001-12-21T23:42:40.000000Z"
+   committed-date="2005-07-10T00:41:48.898159Z"
+   checksum="ea8af71b372b64247eedaa6f875923b3"
+   last-author="micah"
+   kind="file"
+   prop-time="2005-08-17T02:20:38.432614Z"/>
+</wc-entries>
